@@ -6,6 +6,7 @@ Quick start:
 $ npm install
 $ npm start
 ````
+(https://sparkly-banoffee-3205c9.netlify.app/)
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
