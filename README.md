@@ -1,5 +1,5 @@
 
-<img src="https://github.com/SivaTeja60/birthday-gift-site/blob/main/images/website.gif" width=250><br>
+<img src="https://imgur.com/hvI62qo.gif" width=250><br>
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
