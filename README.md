@@ -1,12 +1,5 @@
-# co5a44d7c9989e69129dbf8b3
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-(https://sparkly-banoffee-3205c9.netlify.app/)
+<img src="https://github.com/SivaTeja60/birthday-gift-site/blob/main/images/website.gif" width=250><br>
 
 Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
